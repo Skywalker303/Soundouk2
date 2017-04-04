@@ -13,6 +13,7 @@ File operations
 * Move selected items to directory on other pane
 
  Hotkeys
+
 F2 - copy  
 F3 - move 
 F4 - rename 
