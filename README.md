@@ -1,19 +1,18 @@
 
-##File operations
+File operations
 * Create new directory
 
 * Create new file
 
-* Rename selected item
-
 * Delete selected items
+
+* Rename selected item
 
 * Copy selected items to directory on other pane
 
 * Move selected items to directory on other pane
 
-
-## Hotkeys
+ Hotkeys
 F2 - copy  
 F3 - move 
 F4 - rename 
